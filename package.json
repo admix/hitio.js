@@ -1,0 +1,40 @@
+{
+  "name": "pointsjs",
+  "description": "Web framework for iojs",
+  "version": "0.0.1",
+  "author": "Alexander Snurnikov <admix.snurnikov@gmail.com>",
+  "contributors": [
+    "Alexander Snurnikov <admix.snurnikov@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": "admix/pointsjs",
+  "homepage": "http://github.com/admix/pointjs",
+  "keywords": [
+    "points",
+    "framework",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "iojs": ">= 1.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "Readme.md",
+    "index.js",
+    "lib/"
+  ],
+  "scripts": {
+    
+  }
+}
