@@ -1,5 +1,5 @@
 {
-  "name": "pointsjs",
+  "name": "hitio",
   "description": "Web framework for iojs",
   "version": "0.0.1",
   "author": "Alexander Snurnikov <admix.snurnikov@gmail.com>",
@@ -7,8 +7,8 @@
     "Alexander Snurnikov <admix.snurnikov@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "admix/pointsjs",
-  "homepage": "http://github.com/admix/pointjs",
+  "repository": "admix/hitio.js",
+  "homepage": "http://github.com/admix/hitio.js",
   "keywords": [
     "points",
     "framework",

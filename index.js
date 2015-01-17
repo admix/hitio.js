@@ -1,1 +1,1 @@
-module.exports = require('./lib/points');
+module.exports = require('./lib/hitio');
